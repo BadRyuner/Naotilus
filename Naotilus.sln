@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naotilus", "Naotilus\Naotilus.csproj", "{49A82A63-AF81-4139-9728-BAB3C18A5212}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Naotilus.CLI", "Naotilus.CLI\Naotilus.CLI.csproj", "{8B09A663-ABF8-493E-BA90-B75D7B898088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A82A63-AF81-4139-9728-BAB3C18A5212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A82A63-AF81-4139-9728-BAB3C18A5212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A82A63-AF81-4139-9728-BAB3C18A5212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A82A63-AF81-4139-9728-BAB3C18A5212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B09A663-ABF8-493E-BA90-B75D7B898088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B09A663-ABF8-493E-BA90-B75D7B898088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B09A663-ABF8-493E-BA90-B75D7B898088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B09A663-ABF8-493E-BA90-B75D7B898088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEB3041-86DE-4170-B8C4-23968EEC3977}
+	EndGlobalSection
+EndGlobal
